@@ -27,4 +27,6 @@ y.addEventListener ('click', ()=>{
     }else{
         form2.style.display = 'none';
     }
+    let id = kor.getAttribute ('Myid');
+
  }
